@@ -6,6 +6,8 @@
   "nvim-cmp": { "branch": "main", "commit": "c27370703e798666486e3064b64d59eaf4bdc6d5" },
   "nvim-lspconfig": { "branch": "master", "commit": "8e8fd432f05b126a9dd1635e8022c7e7d1a04e60" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
+  "precognition.nvim": { "branch": "main", "commit": "24f2cc51dccecec4cf3de04bfbd14f5b9e79df0b" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
-  "tokyonight.nvim": { "branch": "main", "commit": "057ef5d260c1931f1dffd0f052c685dcd14100a3" }
+  "tokyonight.nvim": { "branch": "main", "commit": "057ef5d260c1931f1dffd0f052c685dcd14100a3" },
+  "vim-commentary": { "branch": "master", "commit": "64a654ef4a20db1727938338310209b6a63f60c9" }
 }
